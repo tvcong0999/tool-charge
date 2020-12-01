@@ -1,0 +1,12 @@
+1. API backend: + nhiều function, dùng 1 function lấy cả 3 prototype, -> 1 là lấy hết, 2 là ko có gì
+		
+
+2. Frontend: 	
+
+		+ chưa làm load real time, 
+		+ lưu data xuống DB
+
+
+
+
+https://stackoverflow.com/questions/22317951/export-html-table-data-to-excel-using-javascript-jquery-is-not-working-properl

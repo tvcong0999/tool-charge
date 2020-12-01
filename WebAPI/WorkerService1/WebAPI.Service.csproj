@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-WorkerService1-9510BB00-34AB-4158-AC52-6B2D33529276</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.8" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WebAPI.DL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

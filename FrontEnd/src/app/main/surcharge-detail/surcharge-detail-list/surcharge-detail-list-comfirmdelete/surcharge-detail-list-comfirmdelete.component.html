@@ -1,0 +1,22 @@
+<div class="modal-content">
+    <form>
+        <div class="modal-header">
+            <button class="closed" (click) = "close()">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="modal-body">
+            <p>{{message}}</p>
+        </div>
+        <div class="modal-footer">
+            <button class="cancel" (click) = "cancel()">
+                <i class="fas fa-ban"></i>
+                <span>Cancel</span>
+            </button>
+            <button class="ok" (click) = "ok()">
+                <i class="fas fa-check"></i>
+                <span>OK</span>
+            </button>
+        </div>
+    </form>
+</div>

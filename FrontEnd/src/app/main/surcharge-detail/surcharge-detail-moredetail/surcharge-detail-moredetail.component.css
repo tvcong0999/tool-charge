@@ -1,0 +1,71 @@
+.contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contain .content {
+  height: 500px;
+  width: 1000px;
+  background-color: white;
+}
+
+.contain .content .infor table {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.contain .content .imgdetail {
+  height: 400px;
+  width: 1000px;
+  justify-content: center;
+  display: flex;
+}
+.contain .content .imgdetail img {
+  height: 400px;
+}
+.contain .content .infor .table-infor {
+  display: block;
+}
+/* .contain .content .infor .table-infor thead {
+  display: inline-block;
+} */
+.col-infor4,
+.name {
+  width: 140px;
+}
+.col-infor5,
+.numcontact {
+  width: 140px;
+}
+.col-infor6,
+.tax {
+  width: 140px;
+}
+.col-infor7,
+.price {
+  width: 140px;
+}
+.col-infor8,
+.curency {
+  width: 140px;
+}
+.col-infor9,
+.vat {
+  width: 140px;
+}
+.col-infor10,
+.rate {
+  width: 140px;
+}
+
+.contain button {
+  height: 140px;
+  width: 40px;
+  font-size: 50px;
+  color: black;
+  background-color: transparent;
+  border: transparent;
+}
+.contain button:focus {
+  border: transparent;
+}
